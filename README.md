@@ -8,4 +8,4 @@ So what colour does Lego use the most?
 
 My working theory is that Lego uses more black pieces overall in each of its themes.
 
-Here is my Tableau Public accompanying visualization.
+Here is my [Tableau Public](https://public.tableau.com/views/AJLuckCapstoneTableau/MostPopularColoursUsedInLegoThemes?:language=en-US&:display_count=n&:origin=viz_share_link) accompanying visualization.
