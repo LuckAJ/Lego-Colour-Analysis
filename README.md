@@ -1,4 +1,4 @@
-# Lego and their Colours 
+# Lego Colour Analysis 
 
 Datalink: https://rebrickable.com/downloads/
 
